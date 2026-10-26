@@ -1,0 +1,11 @@
+{
+  "name": "AdvancedHeightMap",
+  "author": "Searica",
+  "version_number": "0.1.0",
+  "website_url": "https://discord.gg/sFmGTBYN6n",
+  "description": "Configurable changes to the maximum amount you can change the height of terrain. Explicitly compatiable with AdvancedTerrainModifiers.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.23.2"
+  ]
+}
